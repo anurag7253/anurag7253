@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag7253&show_icons=true&locale=en" alt="anurag7253" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag7253&" alt="anurag7253" /></p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/652fc4faf43a58c923e5c757?variant=dark" alt="roadmap.sh"/></a>
